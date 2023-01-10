@@ -4,7 +4,7 @@ def safeExtGet(prop, fallback) {
 
 buildscript {
     repositories {
-        mavenCentral()
+        jcenter()
         google()
         maven {
           url "https://plugins.gradle.org/m2/"
@@ -34,7 +34,7 @@ android {
 
 repositories {
     mavenLocal()
-    mavenCentral()
+    jcenter()
     maven {
         // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
         url "$projectDir/../../../node_modules/react-native/android"
