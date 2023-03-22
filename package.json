@@ -28,7 +28,7 @@
     "documentation": "12.1.1",
     "flow-bin": "^0.98.0",
     "jest": "24.9.0",
-    "metro-react-native-babel-preset": "0.54.1",
+    "metro-react-native-babel-preset": "0.75.1",
     "prettier": "1.18.2",
     "react": "16.8.6",
     "react-native": "0.60.5"
